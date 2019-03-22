@@ -209,3 +209,46 @@ footer nav a {
 }
 
 /*About Page*/
+
+.Page-top-content {
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+
+}
+
+.PagePic {
+margin: 20px 0 20px 0px;
+}
+
+.Page-middle-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.box-container {
+    margin: 20px 0;
+    border-bottom: 1px dashed black;
+    width: 300px;
+}
+
+.Page-container h4 {
+    margin-top: 20px;
+}
+
+.Page-container p {
+    margin: 20px 0;
+    
+}
+
+.Page-cotainer button {
+    background: white;
+    margin-top: 20px 0;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.Page-button-container {
+    margin: 25px;
+}
