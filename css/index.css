@@ -241,7 +241,7 @@ margin: 20px 0 20px;
 }
 
 .Page-middle-content {
-    margin-top: 20px;
+    margin-top: 30px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -253,10 +253,10 @@ margin: 20px 0 20px;
     width: 360px;
 }
 
-.Page-container h4 {
+.box-container h4 {
     margin-top: 20px;
     padding: 10px 0 0 0;
-    border-top: 10px 0;
+    
 }
 
 .Page-container p {
@@ -267,7 +267,7 @@ margin: 20px 0 20px;
 .box-container button {
 background: white;
 margin: 15px 0;
-padding: 5px 20px;
+padding: 5px 30px;
 vertical-align: top;
 font-size: inherit;
 border: 1px solid black;
@@ -275,7 +275,7 @@ cursor: pointer;
 border-radius: 5px;
 }
 
-.Page-button-container {
+.bottom-box-container {
     margin: 20px;
 }
 
